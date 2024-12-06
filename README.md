@@ -1,6 +1,6 @@
 # Diretório Acadêmico Blaise Pascal (DABP) - UFPEL
 
-Bem-vindo ao repositório oficial do **Diretório Acadêmico Blaise Pascal**! 🎉 Aqui, reunimos nossos projetos de código aberto, promovemos transparência nas nossas atividades automatizadas e, claro, compartilhamos conhecimento e inovações para os estudantes de Computação da **Universidade Federal de Pelotas (UFPEL)**.
+Bem-vindo ao GitHub oficial do **Diretório Acadêmico Blaise Pascal**! 🎉 Aqui, reunimos nossos projetos de código aberto, promovemos transparência nas nossas atividades automatizadas e, claro, compartilhamos conhecimento e inovações para os estudantes de Computação da **Universidade Federal de Pelotas (UFPEL)**.
 
 ## O que você encontra aqui? 🤔
 
