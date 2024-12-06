@@ -37,8 +37,7 @@ Quer fazer parte dessa aventura de código e colaboração? Veja como:
 Tem algo para compartilhar? Precisa de ajuda? Envie uma mensagem para a gente:
 
 - **E-mail:** dabp@inf.ufpel.edu.br
-- **Instagram:** [@dabpufpel](https://instagram.com/dabpufpel)
-- **GitHub Issues:** [Clique aqui para abrir uma issue](https://github.com/dabpufpel/issues)
+- **Instagram:** [@dabpufpel](dabp_computacao)
 
 ---
 
